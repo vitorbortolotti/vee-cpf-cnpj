@@ -1,0 +1,15 @@
+{
+  "name": "vee-cpf-cnpj",
+  "version": "1.0.0",
+  "description": "CPF and CNPJ validators for VeeValidate 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fnando/cnpj": "^0.1.1",
+    "@fnando/cpf": "^0.1.1"
+  }
+}
