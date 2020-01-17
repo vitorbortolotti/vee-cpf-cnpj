@@ -11,5 +11,6 @@
   "dependencies": {
     "@fnando/cnpj": "^0.1.1",
     "@fnando/cpf": "^0.1.1"
-  }
+  },
+  "homepage": "https://github.com/vitorbortolotti/vee-cpf-cnpj"
 }
