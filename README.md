@@ -8,7 +8,7 @@ into VeeValidate
 
 ## Installation
 
-This lib is available as a NPM package. To install it, use the following command:
+This lib is available as a [NPM package](https://www.npmjs.com/package/vee-cpf-cnpj). To install it, use the following command:
 
 ```
 npm install vee-cpf-cnpj --save
@@ -36,12 +36,12 @@ extend('cpf_or_cnpj', cnpj);
 
 #### `cpf`
 
-The field under validation must a valid CPF
+The field under validation must be a valid CPF
 
 #### `cnpj`
 
-The field under validation must a valid CNPJ
+The field under validation must be a valid CNPJ
 
 #### `cpfOrCnpj`
 
-The field under validation must either a valid CPF or a valid CNPJ 
+The field under validation must be either a valid CPF or a valid CNPJ 
